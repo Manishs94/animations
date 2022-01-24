@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "animations-a7d93": {
+      "hosting": {
+        "animations": [
+          "animations-a7d93"
+        ]
+      }
+    }
+  }
+}
